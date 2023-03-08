@@ -53,7 +53,7 @@
 <a href="https://www.collinsrollins.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.collinsrollins.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/collins-rollins-82a56a214/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Collins%20Rollins-blue?style=flat-square&logo=linkedin"></a>
 <!-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a> -->
-<a href="mailto:collinsrollins@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-collinsrollins@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:dev@collinsrollins.com"><img alt="Email" src="https://img.shields.io/badge/Email-collinsrollins07@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [CollinsRollinsDev](https://github.com/CollinsRollinsDev)
